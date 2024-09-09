@@ -3,7 +3,7 @@
     <name>ePayco</name>
     <displayName><![CDATA[ePayco]]></displayName>
 	<version><![CDATA[1.9.5.1]]></version>
-	<description><![CDATA[eePayco: Paga con Tarjeta de crédito/débito nacional e internacional, PSE, Daviplata, Nequi, Paypal, Efectivo, Safetypay y muchos más.]]></description>
+	<description><![CDATA[ePayco: Paga con Tarjeta de crédito/débito nacional e internacional, PSE, Daviplata, Nequi, Paypal, Efectivo, Safetypay y muchos más.]]></description>
     <author><![CDATA[ePayco]]></author>
     <tab><![CDATA[payments_gateways]]></tab>
 	<confirmUninstall><![CDATA[Esta seguro de desistalar este modulo?]]></confirmUninstall>
